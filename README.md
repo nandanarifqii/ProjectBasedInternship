@@ -1,6 +1,6 @@
 # Final Task Data Engineer ID/X Partner - Nandana Rifqi Irfansyah
 
-Challenge
+Studi Kasus
 
 Salah satu client dari ID/X Partners yang bergerak di bidang
 e-commerce memiliki kebutuhan untuk membuat sebuah Data
